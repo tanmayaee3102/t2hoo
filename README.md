@@ -1,7 +1,19 @@
 - 👋 Hi, I’m @t2hoo
+
+
+
+# Introduction To Oracle Database :
+
+## Course Agenda : 
+### Life Cycle & Database Definition -
+### What is a Table? -
+### Data Models & ERM - 
+### About Primary key & foreign key - 
+### SQL and Types of SQL Statements -
+### Oracle Database 12c Architecture -
+### HR Schema in this Course -
+
+
+
 - 📫 reach me at - tanmaya_ise@rediffmail.com
 
-<!---
-t2hoo/t2hoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
